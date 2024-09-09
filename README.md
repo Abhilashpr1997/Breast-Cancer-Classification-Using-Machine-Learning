@@ -59,7 +59,7 @@ Run the Model Training Notebook to train the models.
 Run the Model Comparison Notebook to compare the results.
 
 # Results
-The actual best and worst performing algorithms will depend on the specific dataset and its characteristics. However, in general, Random Forest and SVM often perform well on this type of dataset.
+in general, Random Forest and SVM often perform well on this type of dataset. However, The best performing algorithms are k-Nearest Neighbors, Decision Tree Classifier, Random Forest Classifier because except all other algorithms are overfit.
 
 # Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests
